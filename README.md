@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishabh751
 - 📚 I'm currenty studying B.Tech in CSE.
 - 👀 I’m interested in Gaming and Coding.
-- 🌱 I’m currently learning C and Python.
+- 🌱 I’m currently learning Web Dev and Java.
 - 💞️ I’m looking to collaborate on my published repo's and there codes.
